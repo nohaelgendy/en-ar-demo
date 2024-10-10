@@ -1,7 +1,7 @@
 {
-    "title": "Home",
-    "welcome_message": "Welcome to our website!",
-    "about_us": "Learn more about us and our services.",
-    "footer_text": "© 2023 Your Company. All rights reserved."
-  }
-  
+  "title": "Home",
+  "welcome_message": "Welcome to our website!",
+  "about_us": "Learn <b>more</b> about us and our services.",
+  "placeholder_text": "Enter your Name",
+  "footer_text": "© 2023 Your Company. All rights reserved."
+}
